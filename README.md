@@ -22,7 +22,7 @@ Name | Level 1 | Level 2 | Level 3 | Level n | Info | Special
 --- | --- | --- | ---| --- | --- | ---
 Default | ![][tankDefault1] | ![][tankDefault2] | ![][tankDefault3] | ? | a normal Tank | extra damage resistance
 Rocket | ![][tankRocket1] | ![][tankRocket2] | ![][tankRocket3] | ? | shoots a big Rocket | extra driving speed
-Laser | ![][tankLaser1] | ![][tankLaser2] | ![][tankLaser3] | ? | weapono needs to be loaded | loading weapon shields damage if left is pressed
+Laser | ![][tankLaser1] | ![][tankLaser2] | ![][tankLaser3] | ? | weapons needs to be loaded | loading weapon shields damage if left is pressed
 MG | ![][tankMG1] | ![][tankMG2] | ![][tankMG3] | ? | the weapon can overheat! | better special attacks
 Flame | ![][tankFlame1] | ![][tankFlame2] | ![][tankFlame3] | ? | limited range, but lots of damage | great flame resistance, but a bit slow
 
@@ -51,7 +51,7 @@ Standard Enemy | ![][enemyStd] | nothing special about this one
 Rocket Enemy | ![][enemyRocket] | those rockets aim at you, so better keep moving
 Machine Gun Enemy | ![][enemyMG] | shoots fast lots of buttets, wait till they reload to fight them
 Flamethrower Enemy | ? | the range is limited, but they can do lots of damage
-Shielded Enemy | ? | soon...
+Shielded Enemy | ? | has very high damage resistance
 Mines | ![][enemyMine] | do not drive over those bad boys
 
 [enemyStd]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/enemyStd.gif
@@ -66,7 +66,7 @@ Name | Graphic | Info
 --- | --- | ---
 Coin | ![][itemCoin] | you can use those to buy upgrades in the tank shop
 Repair | ![][itemRepair] | it reapairs 50 hp of your tank
-Heart | ![][itemHeart] | gifes you an extra life, if you already have 3 lifes it repairs you completely
+Heart | ![][itemHeart] | gifes you an extra life, if you already have 3 lifes it repairs you
 Shield | ![][itemShield] | with this shield you can crush everything without getting damage, even mines!
 Slowmotion | ![][itemSlowmo] | makes everything around you slow for about 4 seconds
 Special Attack | ![][itemSpecial] | gives you one special attack, it comes in 3 levels increasing in strength
