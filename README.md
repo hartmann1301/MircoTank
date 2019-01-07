@@ -1,6 +1,6 @@
-![alt text](https://github.com/hartmann1301/BattleTank/blob/master/images/readme/mapExample.png)
+![alt text](https://github.com/hartmann1301/MicroTank/blob/master/Readme/mapExample.png)
 
-# BattleTank
+# MicroTank
 It is a game I programmed for Arduboy
 
 ![][exampleGif1]         ![][exampleGif2]
@@ -8,8 +8,8 @@ It is a game I programmed for Arduboy
 
 Thanks to this https://felipemanga.github.io/ProjectABE/ great Emulator I could make these gifs.
 
-[exampleGif1]: https://github.com/hartmann1301/BattleTank/blob/master/images/BattleTankExample1.gif
-[exampleGif2]: https://github.com/hartmann1301/BattleTank/blob/master/images/BattleTankExample2.gif
+[exampleGif1]: https://github.com/hartmann1301/MicroTank/blob/master/MicroTankExample1.gif
+[exampleGif2]: https://github.com/hartmann1301/MicroTank/blob/master/MicroTankExample2.gif
 
 # Description
 You start with a tank level 1 with a weapon of your choice. Everything can be upgraded till level 5. 
@@ -26,21 +26,21 @@ Laser | ![][tankLaser1] | ![][tankLaser2] | ![][tankLaser3] | ? | weapono needs 
 MG | ![][tankMG1] | ![][tankMG2] | ![][tankMG3] | ? | the weapon can overheat! | better special attacks
 Flame | ![][tankFlame1] | ![][tankFlame2] | ![][tankFlame3] | ? | limited range, but lots of damage | great flame resistance, but a bit slow
 
-[tankDefault1]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/tankDefault1.png
-[tankDefault2]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/tankDefault2.png
-[tankDefault3]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/tankDefault3.png
-[tankRocket1]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/tankRocket1.png
-[tankRocket2]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/tankRocket2.png
-[tankRocket3]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/tankRocket3.png
-[tankLaser1]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/tankLaser1.png
-[tankLaser2]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/tankLaser2.png
-[tankLaser3]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/tankLaser3.png
-[tankMG1]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/tankMG1.png
-[tankMG2]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/tankMG2.png
-[tankMG3]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/tankMG3.png
-[tankFlame1]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/tankFlame1.png
-[tankFlame2]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/tankFlame2.png
-[tankFlame3]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/tankFlame3.png
+[tankDefault1]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankDefault1.png
+[tankDefault2]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankDefault2.png
+[tankDefault3]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankDefault3.png
+[tankRocket1]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankRocket1.png
+[tankRocket2]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankRocket2.png
+[tankRocket3]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankRocket3.png
+[tankLaser1]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankLaser1.png
+[tankLaser2]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankLaser2.png
+[tankLaser3]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankLaser3.png
+[tankMG1]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankMG1.png
+[tankMG2]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankMG2.png
+[tankMG3]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankMG3.png
+[tankFlame1]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankFlame1.png
+[tankFlame2]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankFlame2.png
+[tankFlame3]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankFlame3.png
 
 # Enemys
 They spawn randomly at the right end of the screen.
@@ -54,10 +54,10 @@ Flamethrower Enemy | ? | the range is limited, but they can do lots of damage
 Shielded Enemy | ? | soon...
 Mines | ![][enemyMine] | do not drive over those bad boys
 
-[enemyStd]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/enemyStd.gif
-[enemyRocket]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/enemyRocket.gif
-[enemyMG]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/enemyMG.gif
-[enemyMine]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/enemyMine.gif
+[enemyStd]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/enemyStd.gif
+[enemyRocket]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/enemyRocket.gif
+[enemyMG]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/enemyMG.gif
+[enemyMine]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/enemyMine.gif
 
 # Items
 If you kill enemys there is a chance that thy drop one of those items, pick them up.
@@ -71,12 +71,12 @@ Shield | ![][itemShield] | with this shield you can crush everything without get
 Slowmotion | ![][itemSlowmo] | makes everything around you slow for about 4 seconds
 Special Attack | ![][itemSpecial] | gives you one special attack, it comes in 3 levels increasing in strength
 
-[itemCoin]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/itemCoin.gif
-[itemRepair]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/itemRepair.gif
-[itemHeart]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/itemHeart.gif
-[itemSlowmo]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/itemSlowmo.gif
-[itemShield]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/itemShield.gif
-[itemSpecial]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/itemSpecial.gif
+[itemCoin]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/itemCoin.gif
+[itemRepair]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/itemRepair.gif
+[itemHeart]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/itemHeart.gif
+[itemSlowmo]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/itemSlowmo.gif
+[itemShield]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/itemShield.gif
+[itemSpecial]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/itemSpecial.gif
 
 # Controls
 Button | Game | Shop
@@ -89,14 +89,14 @@ Button | Game | Shop
 ![alt text][buttonB] | shoot the weapon  | set current weapon
 ![alt text][buttonA] + ![alt text][buttonB] | activate special attack | -
 
-[buttonUp]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/buttonUp.png
-[buttonDown]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/buttonDown.png
-[buttonLeft]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/buttonLeft.png
-[buttonRight]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/buttonRight.png
-[buttonA]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/buttonA.png
-[buttonB]: https://github.com/hartmann1301/BattleTank/blob/master/images/readme/buttonB.png
+[buttonUp]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/buttonUp.png
+[buttonDown]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/buttonDown.png
+[buttonLeft]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/buttonLeft.png
+[buttonRight]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/buttonRight.png
+[buttonA]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/buttonA.png
+[buttonB]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/buttonB.png
 
 # Map
 This is actually the whole map. It is just for the variety of the background. It repeats infinitly.
 
-![alt text](https://github.com/hartmann1301/BattleTank/blob/master/images/readme/mapExample.png)
+![alt text](https://github.com/hartmann1301/MicroTank/blob/master/Readme/mapExample.png)
