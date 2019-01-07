@@ -89,14 +89,14 @@ Button | Game | Shop
 ![alt text][buttonB] | shoot the weapon  | set current weapon
 ![alt text][buttonA] + ![alt text][buttonB] | activate special attack | -
 
-[buttonUp]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/buttonUp.png
-[buttonDown]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/buttonDown.png
-[buttonLeft]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/buttonLeft.png
-[buttonRight]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/buttonRight.png
-[buttonA]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/buttonA.png
-[buttonB]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/buttonB.png
+[buttonUp]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/buttonUp.png
+[buttonDown]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/buttonDown.png
+[buttonLeft]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/buttonLeft.png
+[buttonRight]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/buttonRight.png
+[buttonA]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/buttonA.png
+[buttonB]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/buttonB.png
 
 # Map
 This is actually the whole map. It is just for the variety of the background. It repeats infinitly.
 
-![alt text](https://github.com/hartmann1301/MicroTank/blob/master/Readme/mapExample.png)
+![alt text](https://github.com/hartmann1301/MircoTank/blob/master/Readme/mapExample.png)
