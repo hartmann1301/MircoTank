@@ -1,4 +1,4 @@
-![alt text](https://github.com/hartmann1301/MicroTank/blob/master/Readme/mapExample.png)
+![alt text](https://github.com/hartmann1301/MircoTank/blob/master/Readme/mapExample.png)
 
 # MicroTank
 It is a game I programmed for Arduboy
@@ -9,7 +9,7 @@ It is a game I programmed for Arduboy
 Thanks to this https://felipemanga.github.io/ProjectABE/ great Emulator I could make these gifs.
 
 [exampleGif1]: https://github.com/hartmann1301/MircoTank/blob/master/MicroTankExample1.gif
-[exampleGif2]: https://github.com/hartmann1301/MicroTank/blob/master/MicroTankExample2.gif
+[exampleGif2]: https://github.com/hartmann1301/MircoTank/blob/master/MicroTankExample2.gif
 
 # Description
 You start with a tank level 1 with a weapon of your choice. Everything can be upgraded till level 5. 
