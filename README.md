@@ -26,18 +26,18 @@ Laser | ![][tankLaser1] | ![][tankLaser2] | ![][tankLaser3] | ? | weapono needs 
 MG | ![][tankMG1] | ![][tankMG2] | ![][tankMG3] | ? | the weapon can overheat! | better special attacks
 Flame | ![][tankFlame1] | ![][tankFlame2] | ![][tankFlame3] | ? | limited range, but lots of damage | great flame resistance, but a bit slow
 
-[tankDefault1]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankDefault1.png
-[tankDefault2]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankDefault2.png
-[tankDefault3]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankDefault3.png
-[tankRocket1]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankRocket1.png
-[tankRocket2]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankRocket2.png
-[tankRocket3]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankRocket3.png
-[tankLaser1]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankLaser1.png
-[tankLaser2]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankLaser2.png
-[tankLaser3]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankLaser3.png
-[tankMG1]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankMG1.png
-[tankMG2]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankMG2.png
-[tankMG3]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankMG3.png
+[tankDefault1]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/tankDefault1.png
+[tankDefault2]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/tankDefault2.png
+[tankDefault3]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/tankDefault3.png
+[tankRocket1]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/tankRocket1.png
+[tankRocket2]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/tankRocket2.png
+[tankRocket3]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/tankRocket3.png
+[tankLaser1]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/tankLaser1.png
+[tankLaser2]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/tankLaser2.png
+[tankLaser3]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/tankLaser3.png
+[tankMG1]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/tankMG1.png
+[tankMG2]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/tankMG2.png
+[tankMG3]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/tankMG3.png
 [tankFlame1]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/tankFlame1.png
 [tankFlame2]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/tankFlame2.png
 [tankFlame3]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/tankFlame3.png
