@@ -38,9 +38,9 @@ Flame | ![][tankFlame1] | ![][tankFlame2] | ![][tankFlame3] | ? | limited range,
 [tankMG1]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankMG1.png
 [tankMG2]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankMG2.png
 [tankMG3]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankMG3.png
-[tankFlame1]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankFlame1.png
-[tankFlame2]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankFlame2.png
-[tankFlame3]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/tankFlame3.png
+[tankFlame1]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/tankFlame1.png
+[tankFlame2]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/tankFlame2.png
+[tankFlame3]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/tankFlame3.png
 
 # Enemys
 They spawn randomly at the right end of the screen.
@@ -54,10 +54,10 @@ Flamethrower Enemy | ? | the range is limited, but they can do lots of damage
 Shielded Enemy | ? | soon...
 Mines | ![][enemyMine] | do not drive over those bad boys
 
-[enemyStd]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/enemyStd.gif
-[enemyRocket]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/enemyRocket.gif
-[enemyMG]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/enemyMG.gif
-[enemyMine]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/enemyMine.gif
+[enemyStd]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/enemyStd.gif
+[enemyRocket]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/enemyRocket.gif
+[enemyMG]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/enemyMG.gif
+[enemyMine]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/enemyMine.gif
 
 # Items
 If you kill enemys there is a chance that thy drop one of those items, pick them up.
@@ -71,12 +71,12 @@ Shield | ![][itemShield] | with this shield you can crush everything without get
 Slowmotion | ![][itemSlowmo] | makes everything around you slow for about 4 seconds
 Special Attack | ![][itemSpecial] | gives you one special attack, it comes in 3 levels increasing in strength
 
-[itemCoin]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/itemCoin.gif
-[itemRepair]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/itemRepair.gif
-[itemHeart]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/itemHeart.gif
-[itemSlowmo]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/itemSlowmo.gif
-[itemShield]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/itemShield.gif
-[itemSpecial]: https://github.com/hartmann1301/MicroTank/blob/master/Readme/itemSpecial.gif
+[itemCoin]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/itemCoin.gif
+[itemRepair]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/itemRepair.gif
+[itemHeart]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/itemHeart.gif
+[itemSlowmo]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/itemSlowmo.gif
+[itemShield]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/itemShield.gif
+[itemSpecial]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/itemSpecial.gif
 
 # Controls
 Button | Game | Shop
@@ -85,8 +85,8 @@ Button | Game | Shop
 ![alt text][buttonDown] | drive with Tank down  | go down to next weapon
 ![alt text][buttonLeft] | drive with Tank left  | toggle sound on/off
 ![alt text][buttonRight] | drive with Tank right  | upgrade current weapon
-![alt text][buttonA] | switch to Shop  | switch to Game
-![alt text][buttonB] | shoot the weapon  | set current weapon
+![alt text][buttonB] | switch to Shop  | switch to Game
+![alt text][buttonA] | shoot the weapon  | set current weapon
 ![alt text][buttonA] + ![alt text][buttonB] | activate special attack | -
 
 [buttonUp]: https://github.com/hartmann1301/MircoTank/blob/master/Readme/buttonUp.png
