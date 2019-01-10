@@ -66,7 +66,7 @@ Name | Graphic | Info
 --- | --- | ---
 Coin | ![][itemCoin] | you can use those to buy upgrades in the tank shop
 Repair | ![][itemRepair] | it reapairs 50 hp of your tank
-Heart | ![][itemHeart] | gifes you an extra life, if you already have 3 lifes it repairs you
+Heart | ![][itemHeart] | gives you an extra life, if you already have 3 lifes it repairs you
 Shield | ![][itemShield] | with this shield you can crush everything without getting damage, even mines!
 Slowmotion | ![][itemSlowmo] | makes everything around you slow for about 4 seconds
 Special Attack | ![][itemSpecial] | gives you one special attack, it comes in 3 levels increasing in strength
