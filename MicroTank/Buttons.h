@@ -95,7 +95,7 @@ void playButtons() {
     pT.y = 56;
 
   // check special attack
-  if (arduboy.pressed(B_BUTTON) && arduboy.pressed(A_BUTTON) && pT.special != 0) {
+  if (arduboy.justPressed(B_BUTTON) && arduboy.pressed(A_BUTTON) && pT.special != 0) {
 
     specialAttackTimeout = pT.special * 10;
 
@@ -185,6 +185,7 @@ void playButtons() {
       pT.animation = pT.animation | 1;
 
     } else if (pT.weaponType == WEAPON_FLAME) {
+
       if (pT.power < 20)
         return;
 
@@ -212,13 +213,13 @@ void changeGameMode() {
     traveledDist = 0;
     mM.mapOffset = 0;
 
-    // set all player values to  0
-    pT.init();
-
     // set all the list items inactive
     pM.init();
     eM.init();
     iM.init();
+
+    // set all player values to  0
+    pT.init();
 
   } else {
     isPlayMode = !isPlayMode;
@@ -230,7 +231,7 @@ void changeGameMode() {
 void updateGameButtons() {
 
   // button b not pressed helps to activate the special
-  if (arduboy.pressed(B_BUTTON) && !arduboy.pressed(A_BUTTON))
+  if (arduboy.justPressed(B_BUTTON) && !arduboy.pressed(A_BUTTON))
     changeGameMode();
 
   if (isPlayMode) {

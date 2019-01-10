@@ -175,10 +175,10 @@ struct enemy {
       //Serial.println("Enemy Died");
       die();
 
-      return true;
-
       // trees and cars also count, they are important!
       enemyKills++;
+
+      return true;
     }
 
     return false;

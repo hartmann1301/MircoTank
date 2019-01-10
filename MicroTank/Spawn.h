@@ -61,7 +61,7 @@ struct spawnManager {
     difficulty = 200;
 
     // get the number of enemys on the screen and make it harder if there are to less
-    difficulty -= (5 - eM.count()) * 16;
+    difficulty -= (5 - eM.count()) * 20;
 
     // make it faster with map progress
     difficulty -= traveledDist / 32;

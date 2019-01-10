@@ -46,7 +46,7 @@ struct playerTank {
     health = 100 * 100;
     special = 0;
     power = 0;
-    money = 50;
+    money = 0;
     spawnTimeout = 30;
 
     // globals

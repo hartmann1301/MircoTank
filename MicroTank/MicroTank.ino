@@ -50,8 +50,11 @@ spawnManager sM;
 #include "Checks.h"
 
 void setup() {
+
+#ifdef USE_SERIAL  
   Serial.begin(57600);
   Serial.println(F("MicroTank!"));
+#endif
 
 #ifdef ESP8266
   ps2x.config_gamepad(PS2_CLK, PS2_CMD, PS2_SEL, PS2_DAT, false, false);
@@ -127,13 +130,15 @@ void playGame() {
   arduboy.fillRect(0, 0, 26, 7, BLACK);
   //drawNumbers(0, 0, millis() - start);
   //drawNumbers(0, 0, eM.count());
-  drawNumbers(0, 0, sM.difficulty);
+  //drawNumbers(0, 0, sM.difficulty);
 #endif
 }
 
 void loop() {
   if (!(arduboy.nextFrame()))
     return;
+
+  arduboy.pollButtons();
 
   arduboy.fillScreen(WHITE);
 

@@ -301,7 +301,7 @@ void checkSlowmo() {
 void playAnimation() {
 
   // button b not pressed helps to activate the special
-  if (arduboy.pressed(B_BUTTON) || arduboy.pressed(A_BUTTON)) {
+  if (arduboy.justPressed(B_BUTTON) || arduboy.pressed(A_BUTTON)) {
     isStartAnimation = false;
 
     pT.init();
@@ -331,7 +331,7 @@ void playAnimation() {
   pT.drawPlayer();
   playButtons();
 
-  drawOffsetBitmap(28, 18, menuBattleTank, 72, 72, 5, 0, false, BLACK);
+  drawOffsetBitmap(32, 18, menuMicroTank, 64, 64, 5, 0, false, BLACK);
 }
 
 void prepareThings() {

@@ -2,7 +2,6 @@
 #define Globals_h
 
 #include <Arduino.h>
-#include <PS2X_lib.h>
 #include <Arduboy2.h>
 #include <ArduboyTones.h>
 
@@ -23,13 +22,13 @@
 #define PS2_CMD       D0 // orange 
 #define PS2_SEL       D5 // yellow
 #define PS2_CLK       D8 // blue
-
+#include <PS2X_lib.h>
+PS2X ps2x;
 SSD1306Brzo oled(OLED_I2C_ADRESS, D2, D1);
 #endif
 
 Arduboy2Base arduboy;
 ArduboyTones sound(arduboy.audio.enabled);
-PS2X ps2x;
 
 #define GAME_FRAMES 30
 
